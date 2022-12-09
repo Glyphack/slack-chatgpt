@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "d7244522b73693523a377d8afcc272cb2753cb1e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Glyphack",
+      "author_email": "sh.hooshyari@gmail.com",
+      "github_username": "Glyphack",
+      "project_name": "slack-gpt",
+      "project_slug": "slack-gpt",
+      "package_name": "slack_gpt",
+      "project_short_description": "Reply to slack message without thinking with GPT3",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
